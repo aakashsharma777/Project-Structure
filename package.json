@@ -8,7 +8,7 @@
 		"format": "prettier --write {src/app/,app}/**/*.js"
 	},
 	"dependencies": {
-		"bcrypt": "^3.0.8",
+		"bcrypt": "^5.0.0",
 		"body-parser": "^1.18.3",
 		"compress-images": "^1.7.8",
 		"cookie-parser": "~1.4.3",
