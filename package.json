@@ -21,7 +21,7 @@
 		"http-errors": "~1.6.2",
 		"jsonwebtoken": "^8.5.1",
 		"libphonenumber-js": "^1.7.45",
-		"moment": "^2.24.0",
+		"moment": "^2.29.4",
 		"mongodb": "^3.3.4",
 		"mongoose": "^5.9.5",
 		"mongoose-beautiful-unique-validation": "^7.1.1",
