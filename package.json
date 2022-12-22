@@ -19,7 +19,7 @@
 		"express": "^4.17.1",
 		"gifsicle": "^5.0.0",
 		"http-errors": "~1.6.2",
-		"jsonwebtoken": "^8.5.1",
+		"jsonwebtoken": "^9.0.0",
 		"libphonenumber-js": "^1.7.45",
 		"moment": "^2.24.0",
 		"mongodb": "^3.3.4",
